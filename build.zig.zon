@@ -1,8 +1,16 @@
 .{
-    .name = .template_zig,
+    // zig fmt: off
+    .name = .template_window,
     .version = "0.1.0",
-    .fingerprint = 0x6fa599a3a41821a8,
+    .fingerprint = 0x800cf02f655db592,
     .minimum_zig_version = "0.14.0",
+    .dependencies = .{
+        .zlfw = .{
+            .url = "git+https://github.com/Batres3/zlfw#faef677cbe327a745c6edfc20543b26a883f8790",
+            .hash = "zlfw-0.0.1-xkyo0cJWAwAINW02DqGz9Y9oYhwkaXpQ0JMjZxhqeWwj",
+            .lazy = false
+        }
+    },
     .paths = .{
         "build.zig",
         "build.zig.zon",
