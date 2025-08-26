@@ -1,3 +1,6 @@
+> [!Warning]
+> 0.15 changes broke a significant portion of the libraries, this version runs, but is WIP.
+
 ## Template Zig Window
 A barebones Zig window template, for zig stable releases.
 
