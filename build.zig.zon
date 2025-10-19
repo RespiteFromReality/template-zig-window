@@ -3,11 +3,11 @@
     .name = .template_window,
     .version = "0.1.0",
     .fingerprint = 0x800cf02f655db592,
-    .minimum_zig_version = "0.14.0",
+    .minimum_zig_version = "0.15.1",
     .dependencies = .{
         .zlfw = .{
-            .url = "git+https://github.com/RespiteFromReality/zlfw#8873c9611e5bdb90ed8694d066769bcbd1a1d86f",
-            .hash = "zlfw-0.0.1-xkyo0VlYAwDPuyf2AdZG-hI5AwHJ3oPSs8GCWYZ1U0Zx",
+            .url = "git+https://github.com/RespiteFromReality/zlfw#abfe4bfae8d02faaa23e2098ae6f6d8e815cf0e2",
+            .hash = "zlfw-0.0.1-xkyo0VlYAwBNLBZGKtVBVNqd1Sk7pxVmeKMU1rnIP5JI",
             .lazy = false
         }
     },
