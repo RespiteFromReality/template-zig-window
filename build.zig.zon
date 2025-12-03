@@ -6,8 +6,8 @@
     .minimum_zig_version = "0.15.1",
     .dependencies = .{
         .zlfw = .{
-            .url = "git+https://github.com/RespiteFromReality/zlfw#abfe4bfae8d02faaa23e2098ae6f6d8e815cf0e2",
-            .hash = "zlfw-0.0.1-xkyo0VlYAwBNLBZGKtVBVNqd1Sk7pxVmeKMU1rnIP5JI",
+            .url = "git+https://github.com/RespiteFromReality/zlfw#8dc689d2e1975f8ec2a2739b250babf4647aa35f",
+            .hash = "zlfw-0.0.1-xkyo0VlYAwAEyODdahSMiN_7fbenUUpnHf-sRgbPqXhX",
             .lazy = false
         }
     },
